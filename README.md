@@ -21,6 +21,7 @@
 | `NZ_CLIENT_SECRET`  | `kDerKiyNp*************mvj0XMy` | ❌  | `自动生成` 备份文件中 `.yaml` 文件里的 `agentsecretkey` 参数                                           |
 | `NZ_TLS`            | `true`                          | ❌  | 是否启用 TLS，默认 `true`                                                               |
 | `DASHBOARD_VERSION` | `v1.14.1`                       | ❌  | 指定部署的探针版本，默认 `latest`                                                            |
+| `PROJECT_URL` | `https://xxx.hf.space`                       | ❌  | 设置即启用保活，不设置则跳过                                                            |
 
 ---
 
