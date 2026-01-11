@@ -141,7 +141,7 @@ FROM ghcr.io/oyz8/nz:latest
 
 1. 进入 **Logs** 查看部署进度
 2. 部署成功后，使用 **Cloudflare 域名**（`ARGO_DOMAIN`）访问面板
-3. 抱脸空间需要保活的，自行解决
+3. 抱脸空间需要保活的，自行解决 或 设置 `PROJECT_URL` 变量
 
 ---
 
